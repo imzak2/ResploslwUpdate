@@ -1,0 +1,217 @@
+{
+  "hero": {
+    "promotion": "Launch Promotion: 25% Off for Early Access",
+    "title": "KaliumLabs: Your Cybersecurity Playground",
+    "subtitle": "Master cybersecurity through interactive challenges",
+    "getStarted": "Get Started",
+    "tryDemo": "Try Demo"
+  },
+  "nav": {
+    "features": "Features",
+    "curriculum": "Curriculum",
+    "pricing": "Pricing",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "auth": {
+    "backToHome": "Back to Home",
+    "login": {
+      "title": "Welcome back",
+      "description": "Enter your credentials to access your account",
+      "email": "Email",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign in",
+      "loggingIn": "Logging in...",
+      "orContinueWith": "OR CONTINUE WITH",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up"
+    },
+    "register": {
+      "title": "Create an account",
+      "description": "Enter your information to get started",
+      "fullName": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "creatingAccount": "Creating account...",
+      "createAccount": "Create account",
+      "orContinueWith": "OR CONTINUE WITH",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "passwordStrength": {
+        "weak": "Weak",
+        "fair": "Fair",
+        "good": "Good",
+        "strong": "Strong",
+        "characters": "8+ characters",
+        "uppercase": "Uppercase letter",
+        "number": "Number",
+        "special": "Special character"
+      }
+    }
+  },
+  "features": {
+    "title": "A Complete Cybersecurity Ecosystem",
+    "description": "KaliumLabs provides everything you need to master cybersecurity skills through practical, hands-on learning and a gamified progression system.",
+    "items": {
+      "challenges": {
+        "title": "Interactive Challenges",
+        "description": "Hands-on pentesting labs with real-world scenarios and vulnerabilities to exploit."
+      },
+      "progression": {
+        "title": "Progression System",
+        "description": "Earn ranks, badges, and unlock advanced challenges as you improve your skills."
+      },
+      "community": {
+        "title": "Community Learning",
+        "description": "Collaborate with peers, share solutions, and learn from the community."
+      },
+      "analytics": {
+        "title": "Real-time Analytics",
+        "description": "Track your progress, identify areas of improvement, and visualize your growth."
+      },
+      "disciplines": {
+        "title": "Multiple Disciplines",
+        "description": "Master pentesting, cryptography, programming, and more in one platform."
+      },
+      "paths": {
+        "title": "Guided Learning Paths",
+        "description": "Follow structured paths from basics to advanced techniques for efficient learning."
+      }
+    }
+  },
+  "curriculum": {
+    "title": "Specialized Learning Paths",
+    "description": "Our curriculum covers all the major areas of cybersecurity with hands-on challenges designed by industry professionals.",
+    "categories": {
+      "pentesting": {
+        "title": "Pentesting Web",
+        "items": [
+          "XSS Attacks",
+          "SQL Injection",
+          "CSRF",
+          "Authentication Bypass",
+          "File Inclusion"
+        ]
+      },
+      "programming": {
+        "title": "Programming",
+        "items": [
+          "Secure Coding",
+          "Exploit Development",
+          "Automation",
+          "Reverse Engineering",
+          "Scripting"
+        ]
+      },
+      "cryptography": {
+        "title": "Cryptography",
+        "items": [
+          "Encryption",
+          "Hashing",
+          "Key Exchange",
+          "Digital Signatures",
+          "Cryptanalysis"
+        ]
+      }
+    },
+    "viewChallenges": "View Challenges"
+  },
+  "resources": {
+    "documentation": {
+      "title": "Documentation",
+      "description": "Comprehensive documentation to help you make the most of our platform",
+      "searchPlaceholder": "Search documentation...",
+      "categories": {
+        "gettingStarted": {
+          "title": "Getting Started",
+          "articles": [
+            "Platform Overview",
+            "Quick Start Guide",
+            "Account Setup",
+            "First Challenge"
+          ]
+        },
+        "challengeGuides": {
+          "title": "Challenge Guides",
+          "articles": [
+            "Web Security Fundamentals",
+            "XSS Prevention",
+            "SQL Injection Defense",
+            "Authentication Best Practices"
+          ]
+        },
+        "apiReference": {
+          "title": "API Reference",
+          "articles": [
+            "REST API Overview",
+            "Authentication",
+            "Endpoints",
+            "Rate Limits"
+          ]
+        },
+        "resources": {
+          "title": "Resources",
+          "articles": [
+            "Best Practices",
+            "Security Guidelines",
+            "Tool Recommendations",
+            "Troubleshooting"
+          ]
+        }
+      }
+    },
+    "community": {
+      "title": "Community",
+      "description": "Connect with fellow security enthusiasts, share knowledge, and grow together",
+      "stats": {
+        "activeMembers": "Active Members",
+        "dailyDiscussions": "Daily Discussions",
+        "challengesCompleted": "Challenges Completed",
+        "successStories": "Success Stories"
+      },
+      "features": {
+        "forums": {
+          "title": "Discussion Forums",
+          "description": "Engage with fellow security enthusiasts, share knowledge, and solve challenges together."
+        },
+        "studyGroups": {
+          "title": "Study Groups",
+          "description": "Join or create study groups focused on specific security topics or certifications."
+        },
+        "mentorship": {
+          "title": "Mentorship",
+          "description": "Connect with experienced professionals for guidance and career advice."
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "The interactive cybersecurity learning platform with a focus on practical skills and gamified progression.",
+    "sections": {
+      "resources": {
+        "title": "Resources",
+        "items": {
+          "documentation": "Documentation",
+          "blog": "Security Blog",
+          "community": "Community",
+          "learningPaths": "Learning Paths"
+        }
+      },
+      "company": {
+        "title": "Company",
+        "items": {
+          "about": "About",
+          "careers": "Join Our Team",
+          "contact": "Contact",
+          "privacy": "Privacy Policy"
+        }
+      }
+    },
+    "copyright": "© {{year}} KaliumLabs. All rights reserved.",
+    "builtWith": "KaliumLabs | ❤️ New generation of training."
+  }
+}
